@@ -6,5 +6,6 @@ public class practice {
         int grade=100;
 
         System.out.println("grade = " + grade);
+        System.out.println("grade 2 is 48");
     }
 }
